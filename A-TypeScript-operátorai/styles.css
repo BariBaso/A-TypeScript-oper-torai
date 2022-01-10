@@ -37,4 +37,23 @@ li {
 table {
   width: 80%;
   margin: auto;
+
+}
+
+span{
+  color: #087ac8;
+  font-weight: bolds;
+}
+
+tr,td,th {
+border: 1px;
+border-color:black ;
+border-style: solid;
+text-align: center;
+
+}
+
+th{
+  background-color:#087ac8;
+  color: white;
 }
