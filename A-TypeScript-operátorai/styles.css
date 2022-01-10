@@ -1,6 +1,10 @@
 body {
   background-color: rgb(111, 111, 111);
   background-size: cover;
+  background-image: url(TypeScriptBack.jpg);
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
 }
 
 p {
@@ -13,6 +17,10 @@ p {
   margin-top: 40px;
   background-color: rgba(255, 255, 255, 0.85);
   border-radius: 30px;
+  width: 80%;
+  padding: 30px;
+  margin: auto;
+
 }
 
 a {
